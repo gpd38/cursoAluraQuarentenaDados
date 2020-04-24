@@ -52,17 +52,21 @@ Paulo Silveira
 - [Github](https://github.com/peas)
 - [Linkedin](https://www.linkedin.com/in/paulosilveira/)
 - [Instagram](https://www.instagram.com/paulo_hipster/)
+
 Guilherme Silveira
 - [Twitter](https://twitter.com/guilhermecaelum)
 - [Github](https://github.com/guilhermesilveira)
 - [Linkedin](https://www.linkedin.com/in/guilhermeazevedosilveira/)
+
 Thais André
 - [Twitter](https://twitter.com/thais_tandre)
 - [Linkedin](https://www.linkedin.com/in/thais-thomazini-andr%C3%A9-7ba9ab1a5/)
+
 Allan Spadini
 - [Twitter](https://twitter.com/allanspadini)
 - [Github](https://github.com/allanspadini)
 - [Linkedin](https://www.linkedin.com/in/allan-spadini-3561b023/)
+
 Thiago Gonçalves
 - [Twitter](https://twitter.com/tgcsantos)
 - [Github](https://github.com/tgcsantos)
