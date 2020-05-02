@@ -17,12 +17,16 @@ Aula|Dia
 - [Material Aula04 - Estatísticas no ENEM 2018](https://www.alura.com.br/quarentenadados/aula04-estatisticas-correlacoes-enem?utm_campaign=alura_quarentenadados_-_4_aula&utm_medium=email&utm_source=RD+Station)
 - [Material Aula05 - Modelo de Regressão e Machine Learning](https://www.alura.com.br/quarentenadados/aula05-regressao-machine-learning?utm_campaign=alura_quarentenadados_-_5_aula&utm_medium=email&utm_source=RD+Station)
 
+OBS.: Os html's estão armazenados dentro da pasta [site_quarentena_dados](https://github.com/gpd38/cursoAluraQuarentenaDados/tree/master/sites_html) dentro deste projeto.
+
 ### Links das vídeo aulas
 - [Aula 01 - Python, Pandas e Colab](https://www.youtube.com/watch?v=TlNQWOUf4Fw)
 - [Aula 02 - Médias, medianas e visualização de dados](https://www.youtube.com/watch?v=FY8qyZnrEyI)
 - [Aula 03 - Correlações e Exploração de Dados](https://www.youtube.com/watch?v=gp63ju6Cl9w)
 - [Aula 04 - Estatísticas no ENEM 2018](https://www.youtube.com/watch?v=Nr_-aBFeDRM)
 - [Aula 05 - Modelo de Regressão e Machine Learning](https://www.youtube.com/watch?v=_YcxlJ-xm4M)
+
+OBS.: Os vídeos do curso não foram inseridos neste projeto por serem muito grandes. [Link alternativo para as vídeo aulas](#).
 
 ### Solução dos desafios
 - [Solução Aula 01](https://colab.research.google.com/drive/1p69W-kfloWqslpLqwmaOV2GTsqaeWyi0)
