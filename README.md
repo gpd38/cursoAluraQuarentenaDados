@@ -26,7 +26,7 @@ OBS.: Os html's estão armazenados dentro da pasta [site_quarentena_dados](https
 - [Aula 04 - Estatísticas no ENEM 2018](https://www.youtube.com/watch?v=Nr_-aBFeDRM)
 - [Aula 05 - Modelo de Regressão e Machine Learning](https://www.youtube.com/watch?v=_YcxlJ-xm4M)
 
-OBS.: Os vídeos do curso não foram inseridos neste projeto por serem muito grandes. [Link alternativo para as vídeo aulas](#).
+OBS.: Os vídeos do curso não foram inseridos neste projeto por serem muito grandes. [Link alternativo para as vídeo aulas](https://www.youtube.com/playlist?list=PLwU16M9hDJkM0H-8Rr77XuxQ_2hDzlGdE).
 
 ### Solução dos desafios
 - [Solução Aula 01](https://colab.research.google.com/drive/1p69W-kfloWqslpLqwmaOV2GTsqaeWyi0)
